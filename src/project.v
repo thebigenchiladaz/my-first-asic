@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
- # Fuck you bitch
+/* Fuck you bitch */
 
 `default_nettype none
 
